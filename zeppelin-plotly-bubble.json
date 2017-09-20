@@ -1,0 +1,8 @@
+{
+  "type" : "VISUALIZATION",
+  "name" : "zeppelin-plotly-bubble",
+  "description" : "Bubble chart of Plotly.js for Apache Zeppelin",
+  "license" : "MIT",
+  "artifact" : "/Users/jun/git/zeppelin-plotly-bubble",
+  "icon" : "<i class='fa fa-circle'></i>"
+}
