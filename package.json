@@ -1,7 +1,11 @@
 {
   "name": "zeppelin-plotly-bubble",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tae-jun/zeppelin-plotly-bubble"
+  },
   "description": "Bubble chart of Plotly.js for Apache Zeppelin",
   "author": "Jun Kim (i2r.jun@gmail.com)",
   "license": "MIT",
