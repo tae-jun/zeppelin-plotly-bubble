@@ -12,5 +12,9 @@
   "dependencies": {
     "zeppelin-tabledata": "*",
     "zeppelin-vis": "*"
+  },
+  "helium": {
+    "type": "VISUALIZATION",
+    "icon": "<i class='fa fa-heartbeat'></i>"
   }
 }
